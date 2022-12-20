@@ -1,5 +1,5 @@
-👋 Hi, I’m Maheswar Dileep
-💫 About Me:
+👋 Hi, I’m Maheswar Dileep <br>
+<h2>💫 About Me</h2> <br>
 🔭  I’m currently searching for a good job<br>👯  I’m am learning new technologies<br>🌱  I’m currently learning about MERN stack<br>💬  Ask me about how web works<br>⚡  Fun fact I am still learning<br>📫 How to reach me IG @maheswar_dileep
 
 
