@@ -1,11 +1,13 @@
 <h1 align="center">👋 Hi, I’m Maheswar Dileep</h1> <br>
 <h2 align="center">💫 About Me</h2>
 <p align="center">💬  I'm a Mern Stack Developer
-<p align="center">🔭  I’m currently doing intership at brototype</p>
+<p align="center">🔭  I’m currently an intern at Brototype Kochi</p>
 <p align="center">👯  I’m am learning new technologies</p>
 <!-- <p align="center">🌱  I’m currently learning about MERN stack</p> -->
 <!-- <p align="center">⚡  Fun fact I am still learning</p> -->
-<p align="center">📫 How to reach me IG @maheswar_dileep or mail me at maheaswerd@gmail.com</p>
+<p align="center">📫 How to reach me IG @maheswar_dileep 
+ <p align="center">or
+ <p align="center">mail me at maheaswerd@gmail.com</p>
 
 
 <p align="center">
